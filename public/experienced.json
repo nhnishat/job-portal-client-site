@@ -1,0 +1,63 @@
+[
+    {
+      "position": "Software Engineer",
+      "job_location": "San Francisco, CA",
+      "company_name": "TechCorp",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Data Analyst",
+      "job_location": "New York, NY",
+      "company_name": "DataTech",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Marketing Specialist",
+      "job_location": "Chicago, IL",
+      "company_name": "MarketingMasters",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Product Manager",
+      "job_location": "Seattle, WA",
+      "company_name": "InnovateTech",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Graphic Designer",
+      "job_location": "Los Angeles, CA",
+      "company_name": "DesignWorks",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Financial Analyst",
+      "job_location": "Boston, MA",
+      "company_name": "FinancePlus",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "HR Manager",
+      "job_location": "Austin, TX",
+      "company_name": "HRPros",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Sales Representative",
+      "job_location": "Miami, FL",
+      "company_name": "SalesForce",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "Content Writer",
+      "job_location": "Denver, CO",
+      "company_name": "ContentCo",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    },
+    {
+      "position": "IT Support Specialist",
+      "job_location": "Dallas, TX",
+      "company_name": "IT Solutions",
+      "company_logo_url": "https://i.ibb.co/R005vZV/chris-ried-ieic5-Tq8-YMk-unsplash.jpg"
+    }
+  ]
+  

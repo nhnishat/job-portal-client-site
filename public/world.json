@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Amazon.com, Inc",
+      "location": "Worldwide",
+      "email": "info@companyAmazon.com",
+      "website": "www.companyAmazon.com",
+      "clients": "Global enterprises, startups, and SMBs across industries.",
+      "technologyExpertise": "AI/ML, Big Data, Cloud Solutions (AWS, Google Cloud, Azure), Cybersecurity, ERP.",
+      "overview": " Amazon is a multinational technology and e-commerce company headquartered in Seattle, Washington, USA. Originally known for its online retail business, Amazon has expanded its operations significantly. It is a major player in cloud computing through Amazon Web Services (AWS). Additionally, Amazon has ventured into digital streaming (Amazon Prime Video), smart home devices (Amazon Echo), and more."
+    },
+    {
+      "name": "Microsoft Corporation",
+      "location": "Worldwide",
+      "email": "info@companyMicrosoft.com",
+      "website": "www.companyMicrosoft.com",
+      "clients": "Global enterprises, startups, and SMBs across industries.",
+      "technologyExpertise": " IoT Solutions, Blockchain, Full-Stack Development, Cybersecurity Solutions.",
+      "overview": "Microsoft is a multinational technology company headquartered in Redmond, Washington, USA. It is a major player in the software industry, providing products like Windows operating systems, Microsoft Office suite, and cloud-based services like Microsoft Azure. Microsoft is also actively involved in hardware, gaming (Xbox), and artificial intelligence research."
+    },
+    {
+      "name": "Apple Inc.",
+      "location": "Worldwide",
+      "email": "info@companyMicrosoft.com",
+      "website": "www.companyMicrosoft.com",
+      "clients": " Global enterprises, financial institutions, healthcare providers, and telecommunications companies.",
+      "technologyExpertise": "IT Infrastructure Management, DevOps, Software Testing, Process Optimization.",
+      "overview": " Apple is a multinational technology company headquartered in Cupertino, California, USA. It is renowned for its innovative consumer electronics, software, and digital services. Apple is best known for its iPhone, iPad, Mac computers, Apple Watch, and various software and services, including iOS, macOS, and the App Store. The company has a significant global presence and a loyal customer base."
+    }
+  ]
+  

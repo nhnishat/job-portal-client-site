@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Tech Gaint",
+      "location": "Bangladesh",
+      "email": "info@companyA.com",
+      "website": "www.companyA.com",
+      "clients": "Java, Python, JavaScript, Android, iOS, PHP, Laravel, React, Angular, AWS, Azure.",
+      "technologyExpertise": ["React", "Node.js", "MongoDB"],
+      "overview": "Tech Gaint was founded in 2005 by a group of visionary IT professionals who aimed to revolutionize the tech landscape in Bangladesh. Over the years, the company has grown exponentially, earning a reputation for delivering innovative IT solutions. They specialize in custom software development, web design and development, mobile app development, and digital marketing services. Tech Gaint's team comprises skilled developers, designers, and marketers who work collaboratively to create seamless and user-friendly solutions for their clients. They have successfully completed projects for businesses across various sectors, including finance, healthcare, e-commerce, and more."
+    },
+    {
+      "name": "BD It Center",
+      "location": "Bangladesh",
+      "email": "info@companyB.com",
+      "website": "www.companyB.com",
+      "clients": "Enterprises, government organizations, educational institutions, and healthcare providers.",
+      "technologyExpertise":"Networking, Cloud Computing (AWS, Microsoft Azure), Cybersecurity Solutions, Virtualization, ITIL Best Practices.",
+      "overview": "BD It Center, established in 2003, is a leading IT solutions provider in Bangladesh. They have a comprehensive suite of services that includes IT consulting, cloud solutions, cybersecurity, network infrastructure management, and managed IT services. The company has a team of highly skilled IT professionals who are experts in their respective domains. Their consultative approach helps them understand clients' IT needs and challenges thoroughly, enabling them to design and implement tailor-made solutions that align with the clients' business objectives. BD It Center's commitment to quality and customer satisfaction has earned them long-term partnerships with prominent businesses in Bangladesh."
+    },
+    {
+      "name": "DohaTech",
+      "location": "Bangladesh",
+      "email": "info@companyC.com",
+      "website": " www.companyC.com",
+      "Industry_Recognition":" Featured in Top 10 Emerging IT Companies in Bangladesh by a leading tech publication.",
+      "clients": [" E-commerce businesses, startups, and SMEs."],
+      "technologyExpertise": "Magento, WooCommerce, Shopify, SEO, PPC, PHP, React Native.",
+      "overview": " DohaTech is a renowned IT service provider with a presence in multiple countries. They specialize in IT infrastructure management, business process outsourcing (BPO), software testing, and quality assurance. DohaTech's global delivery model allows them to provide cost-effective solutions without compromising on quality. They have a proven track record of delivering large-scale projects on time and within budget, making them a trusted partner for enterprises seeking reliable IT services."
+    }
+  ]

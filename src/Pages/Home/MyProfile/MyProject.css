@@ -1,0 +1,35 @@
+.box-cover {
+	height: 400px;
+
+	background-position: top;
+	transition: ease-in-out 8s;
+}
+
+/* 1st box */
+
+.box {
+	background: url('https://i.ibb.co/BC7k6Rx/Screen-Shot-2023-07-09-at-18-50-23.png');
+	background-size: cover;
+}
+.box:hover {
+	background-position: bottom;
+
+	/* 2nd Box */
+}
+.box1 {
+	background: url('https://i.ibb.co/0Dbg52J/Screen-Shot-2023-07-09-at-18-55-54.png');
+	background-size: cover;
+}
+.box1:hover {
+	background-position: bottom;
+}
+
+/* 3rd box */
+
+.box2 {
+	background: url('https://i.ibb.co/MNLt4xr/Screen-Shot-2023-07-09-at-18-57-34.png');
+	background-size: cover;
+}
+.box2:hover {
+	background-position: bottom;
+}
